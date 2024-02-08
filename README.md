@@ -1,2 +1,3 @@
 # gogradle
-Ubuntu-based Docker image with Go and Gradle preinstalled.
+
+Debian-based Docker image with Go and Gradle preinstalled.
