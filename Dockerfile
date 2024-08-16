@@ -1,5 +1,5 @@
-# Use the golang image with the 1.22-bookworm tag as the base
-FROM golang:1.22-bookworm
+# Use the golang image with the 1.23-bookworm tag as the base
+FROM golang:1.23-bookworm
 
 # Prevent tzdata installation prompting for input
 ENV TZ=Etc/UTC
